@@ -3,7 +3,7 @@ ecommerce-analytics-project
 # 🛒 E-Commerce Customer Purchase Behavior Analysis
 
 ## 📌 Problem
-How can an e-commerce company improve retention, reduce churn, and optimize revenue?
+How can an e-commerce company improve retention and optimize revenue?
 
 ## 🛠 Tools Used
 - Python (Pandas, SQLite) on Google Colab
